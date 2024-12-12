@@ -1,7 +1,9 @@
 # NER-NLP-Group4
 
+![NER Animation](https://your-animation-link.com/example.gif)
+
 ## Project Overview
-NER-NLP-Group4 is a project focused on **Named Entity Recognition (NER)** in the field of **Natural Language Processing (NLP)**.
+NER-NLP-Group4 is a project focused on **Named Entity Recognition (NER)** in the field of **Natural Language Processing (NLP)**. Our goal is to identify and extract relevant NLP-related keywords from given text data, specifically targeting **academic texts** or **scientific articles**.
 
 ## Key Features
 - Extracts key entities related to NLP from input text.
@@ -14,28 +16,6 @@ The project uses **Abstract 10 Dataset** as the dataset. It contains a collectio
 ## Tools and Libraries
 - Python
 - Libraries: `spaCy`, `NLTK`, `sklearn`, `pandas`
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Nochsiv/NER-NLP-Group4.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd NER-NLP-Group4
-   ```
-3. Install required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## Usage
-1. Prepare your text file(s) for analysis.
-2. Run the NER script:
-   ```bash
-   python ner_analysis.py --input data/sample_text.txt --output results/output.json
-   ```
-3. View the results in the `results/` directory.
 
 ## Contributors
 - Group 4
