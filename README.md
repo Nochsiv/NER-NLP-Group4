@@ -1,6 +1,6 @@
 # NER-NLP-Group4
 
-![Banner Gif](Yellow%20Modern%20Freelance%20Copywriter%20LinkedIn%20Banner.gif)
+
 
 
 ## Project Overview
