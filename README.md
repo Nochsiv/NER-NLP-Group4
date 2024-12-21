@@ -1,6 +1,7 @@
 # NER-NLP-Group4
 
-![NER Animation](Yellow Modern Freelance Copywriter LinkedIn Banner.mp4)
+![Banner Gif](Yellow%20Modern%20Freelance%20Copywriter%20LinkedIn%20Banner.gif)
+
 
 ## Project Overview
 NER-NLP-Group4 is a project focused on **Named Entity Recognition (NER)** in the field of **Natural Language Processing (NLP)**. Our goal is to identify and extract relevant NLP-related keywords from given text data, specifically targeting **academic texts** or **scientific articles**.
